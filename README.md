@@ -1,4 +1,4 @@
-V2
+V3
 # FullStack_Ecommerce_App
 A FullStack Ecommerce App built with Django and React. 
 <p id ="top" align="center">
